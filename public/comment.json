@@ -1,0 +1,16 @@
+[
+    {
+    "userId": 1,
+    "id": 1,
+    "name": "Holden Caulfield",
+    "designation": "UI DEVELOPER",
+    "img": "https://images.pexels.com/photos/5467596/pexels-photo-5467596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+    "userId": 1,
+    "id": 2,
+    "name": "Alper Kamu",
+    "designation": "DESIGNER",
+    "img": "https://images.pexels.com/photos/7128983/pexels-photo-7128983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
+]

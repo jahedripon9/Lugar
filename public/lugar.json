@@ -1,0 +1,59 @@
+[
+    {
+    "userId": 1,
+    "id": 1,
+    "address": "Vintage Villa",
+    "location": "2715 Ash Dr. San Jose, Dubai",
+    "img": "https://images.pexels.com/photos/210538/pexels-photo-210538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+    "userId": 1,
+    "id": 2,
+    "address": "Tonga Villa",
+    "location": "1901 Thornridge Cir. Shiloh 81063",
+    "img": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+    "userId": 1,
+    "id": 3,
+    "address": "Penthouse",
+    "location": "2464 Royal Ln. Mesa, 45463",
+    "img": "https://images.pexels.com/photos/2194399/pexels-photo-2194399.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+    "userId": 1,
+    "id": 4,
+    "address": "Smart city projecct",
+    "location": "2715 Ash Dr. San Jose, Dubai",
+    "img": "https://images.pexels.com/photos/3625713/pexels-photo-3625713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+    "userId": 1,
+    "id": 4,
+    "address": "Vintage Villa",
+    "location": "2715 Ash Dr. San Jose, Dubai",
+    "img": "https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+    "userId": 1,
+    "id": 5,
+    "address": "Tonga Villa",
+    "location": "1901 Thornridge Cir. Shiloh 81063",
+    "img": "https://images.pexels.com/photos/3958961/pexels-photo-3958961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+    "userId": 1,
+    "id": 7,
+    "address": "Penthouse",
+    "location": "2464 Royal Ln. Mesa, 45463",
+    "img": "https://images.pexels.com/photos/8288954/pexels-photo-8288954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+    "userId": 1,
+    "id": 8,
+    "address": "Smart city projecct",
+    "location": "2715 Ash Dr. San Jose, Dubai",
+    "img": "https://images.pexels.com/photos/3990589/pexels-photo-3990589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
+    
+]
